@@ -1,3 +1,9 @@
+NOTE
+* Cape modifications are done to `sass` folder, see `sass/README.txt` for more details
+* only `mdb.js` is necessary in the `js` folder, as other js files are included already
+
+---------
+
 [![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/MDB-post/bootstrap-material-design.jpg)](https://mdbootstrap.com/material-design-for-bootstrap/)
 
 # Material Design for Bootstrap 4 

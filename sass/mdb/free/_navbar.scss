@@ -97,9 +97,9 @@ $navbar-option: (
             font-weight: $font-weight;
             padding: $navbar-dropdown-menu-padding;
             color: $black !important;
-            &:hover {
-                color: $white !important;
-            }
+
+            // CAPE MODIFICATIONS
+            // removed some conflicting styling here
         }
         &.dropdown-menu-right {
             @media (max-width: $small-screen) {
